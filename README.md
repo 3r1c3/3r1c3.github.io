@@ -1,4 +1,4 @@
-### Welcome to *3r1c3.github.io*
+
 ---
 **TYPES OF EXOPLANETS**
 
