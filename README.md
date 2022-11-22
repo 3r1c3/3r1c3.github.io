@@ -16,5 +16,9 @@ Neptunian planets are similar in size to Neptune or Uranus in our solar system. 
 >SUPER-EARTHS
 
  are typically terrestrial planets that may or may not have atmospheres. They are more massive than Earth, but lighter than Neptune.
- ![alt text](https://www.nasa.gov/sites/default/files/images/742541main_Kepler-62MorningStar-1_full.jpg)
+![alt text](https://th-thumbnailer.cdn-si-edu.com/aU5mwRrUsvluSTRsuEAkDZ6PKLs=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/58/48/5848bc8a-8564-443b-9722-da85823d25e5/kepler62f_nasa.jpg)
 
+>Terrestrial planets 
+
+are Earth sized and smaller, composed of rock, silicate, water or carbon. Further investigation will determine whether some of them possess atmospheres, oceans or other signs of habitability.
+![alt text](https://storiesbywilliams.files.wordpress.com/2013/11/exoplanets2.jpg)
